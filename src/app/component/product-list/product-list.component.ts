@@ -25,3 +25,5 @@ export class ProductListComponent implements OnInit {
 }
 
 //integrates service with angular component
+
+//todo make a card component

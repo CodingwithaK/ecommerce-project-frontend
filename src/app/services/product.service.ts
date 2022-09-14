@@ -8,6 +8,7 @@ import {map} from 'rxjs/operators'
 })
 export class ProductService {
 
+  //swap this for aws link
   private baseUrl='http://localhost:8080/api/products'
   constructor(private httpClient: HttpClient) { }
 
